@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Facebook
+namespace IDontReallyKnowWhatToPutHere
 {
   public class PriorityQueue<T> where T : IComparable<T>
   {
